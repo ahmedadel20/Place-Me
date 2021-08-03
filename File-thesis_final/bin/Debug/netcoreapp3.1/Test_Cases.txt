@@ -1,0 +1,55 @@
+Add, A, 12
+Add, B, 15
+Add, C, 20
+Delete, B
+Add, D, 12
+Add, E, 18
+Delete, D
+Add, F, 13
+Delete, C
+Add, G, 20
+~1
+Add, L, 5
+Delete, L
+Add, M, 10
+Delete, M
+Add, N, 15
+Delete, N
+Add, O, 20
+Add, P, 5
+Add, Q, 10
+Add, R, 15
+~2
+Add, L, 30
+Add, M, 20
+Add, N, 10
+Delete, N
+Delete, L
+Delete, M
+Add, P, 25
+Add, Q, 15
+Add, R, 10
+Add, O, 20
+~3
+Add, H, 20
+Delete, H
+Add, I, 30
+Delete, I
+Add, J, 50
+Delete, J
+Add, K, 60
+Add, L, 20
+Add, M, 30
+Add, N, 50
+~4
+Add, S, 6
+Delete, S
+Add, T, 18
+Delete, T
+Add, U, 32
+Delete, U
+Add, V, 20
+Add, W, 5
+Add, X, 10
+Add, Y, 15
+~5
